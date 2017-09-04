@@ -1,0 +1,11 @@
+app
+apple
+break
+bread
+cat
+catch
+dancing
+dog
+eat
+egg
+eggs

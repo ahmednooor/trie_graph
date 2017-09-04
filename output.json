@@ -1,0 +1,96 @@
+{
+    "iw": "False",
+    "a": {
+        "iw": "False",
+        "p": {
+            "iw": "False",
+            "p": {
+                "iw": "True",
+                "l": {
+                    "iw": "False",
+                    "e": {
+                        "iw": "True"
+                    }
+                }
+            }
+        }
+    },
+    "b": {
+        "iw": "False",
+        "r": {
+            "iw": "False",
+            "e": {
+                "iw": "False",
+                "a": {
+                    "iw": "False",
+                    "k": {
+                        "iw": "True"
+                    },
+                    "d": {
+                        "iw": "True"
+                    }
+                }
+            }
+        }
+    },
+    "c": {
+        "iw": "False",
+        "a": {
+            "iw": "False",
+            "t": {
+                "iw": "True",
+                "c": {
+                    "iw": "False",
+                    "h": {
+                        "iw": "True"
+                    }
+                }
+            }
+        }
+    },
+    "d": {
+        "iw": "False",
+        "a": {
+            "iw": "False",
+            "n": {
+                "iw": "False",
+                "c": {
+                    "iw": "False",
+                    "i": {
+                        "iw": "False",
+                        "n": {
+                            "iw": "False",
+                            "g": {
+                                "iw": "True"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "o": {
+            "iw": "False",
+            "g": {
+                "iw": "True"
+            }
+        }
+    },
+    "e": {
+        "iw": "False",
+        "a": {
+            "iw": "False",
+            "t": {
+                "iw": "True"
+            }
+        },
+        "g": {
+            "iw": "False",
+            "g": {
+                "iw": "True",
+                "s": {
+                    "iw": "True"
+                }
+            }
+        }
+    }
+}
